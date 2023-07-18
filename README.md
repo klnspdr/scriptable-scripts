@@ -9,5 +9,6 @@ Nach 14 Uhr wird der nächste Tag angezeigt, am Freitagnachmittag und Wochenende
 
 ### Installation
 Installation der Skripte am einfachsten über [ScriptDude](https://scriptdu.de)
+
 Skriptlinks: 
  * Mensa: [https://raw.githubusercontent.com/kilianspeder/scriptable-scripts/master/scripts/mensa-kit-widget.js](https://raw.githubusercontent.com/kilianspeder/scriptable-scripts/master/scripts/mensa-kit-widget.js)
