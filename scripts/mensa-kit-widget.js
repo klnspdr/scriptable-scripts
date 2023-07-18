@@ -174,7 +174,7 @@ function getOpenMensaBaseURL(displayedDate){
     //ID of Mensa for OpenMensa API
     const mensaId = 1719;
     //get displayDate in correct format for API
-    const date = displayedDate.toJSON().slice(0,10);
+    const date = `${displayedDate.getFullYear()}-${displayedDate.getMonth()+1}-${displayedDate.getDate()}`;
     return `https://openmensa.org/api/v2/canteens/${mensaId}/days/${date}`;
 }
 
